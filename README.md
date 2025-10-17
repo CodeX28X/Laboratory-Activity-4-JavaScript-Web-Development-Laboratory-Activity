@@ -1,0 +1,1 @@
+The hardest part for me, was making and debugging the errors for the quiz animations and sounds work smoothly. Then I fixed it by organizing my JavaScript code and using console.log() to track function execution.
